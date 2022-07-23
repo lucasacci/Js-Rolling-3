@@ -15,8 +15,6 @@ for (let i = 0; i < 50; i++) {
     x.push(s1);
     y.push(d1);
     z.push(d2);
-
-
     
 }
 document.write(`Dado 1: ${y}`);
